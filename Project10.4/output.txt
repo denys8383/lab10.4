@@ -1,0 +1,5 @@
+Max digit sequence length: 6
+Max digit sequence length: 4
+Max digit sequence length: 4
+Max digit sequence length: 4
+Max digit sequence length: 2
